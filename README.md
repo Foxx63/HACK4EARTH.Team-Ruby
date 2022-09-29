@@ -5,7 +5,8 @@
 <p align="center">Description here</p>
 
 **Link to project:**
-[Link TBD]()
+
+Link TBD
 
 ## How It's Made:
 
